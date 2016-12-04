@@ -1,4 +1,6 @@
-# Class 02: Lists, Functions, Classes
+# Day 01: Intro to Python
+
+## Questions
 
 1. Calculate length of a list
 
